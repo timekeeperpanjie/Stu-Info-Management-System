@@ -1,0 +1,4 @@
+admin admin 1
+panjie panjie 1
+moniter 123456 0
+teacher abcde 0
